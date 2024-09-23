@@ -1,5 +1,5 @@
 # 💰 Sistema de Gerenciamento de Investimentos 📈
-Este projeto foi desenvolvido como parte da disciplina **Laboratório de Programação** no Instituto Federal do Ceará (IFCE), campus Maracanaú, ministrada pelo professor **Luiz Fernando**.
+Este projeto foi desenvolvido como parte da disciplina **Laboratório de Programação**, ministrada pelo professor **Luiz Fernando**, no curso de **Ciência da Computação**.
 
 ## 📑 Sumário
 - [💰 Sistema de Gerenciamento de Investimentos 📈](#-sistema-de-gerenciamento-de-investimentos-)
