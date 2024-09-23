@@ -33,7 +33,7 @@ O projeto é dividido nos seguintes arquivos:
 Para compilar o projeto, use um compilador C como o `gcc`. Siga os seguintes passos:
 
 ```bash
-gcc -o investimento main.c calculo_investimento.c gerenciamento_investimento.c -lm
+gcc -g main.c calculo_investimento.c gerenciamento_investimento.c -o investimento
 ```
 ou
 ```bash
